@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"
-	photoRes "github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/app/photo"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/helpers"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/models"
+	photoRes "github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/app/photo"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/helpers"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqid/models"
 	"gorm.io/gorm"
 )
 

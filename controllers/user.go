@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	userRes "github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/app/user"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/helpers"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/models"
+	userRes "github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/app/user"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/helpers"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/models"
 	"gorm.io/gorm"
 )
 

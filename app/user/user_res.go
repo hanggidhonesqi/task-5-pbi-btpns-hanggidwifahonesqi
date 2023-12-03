@@ -1,6 +1,6 @@
 package user
 
-import "github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/models"
+import "github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/models"
 
 type UserResponse struct {
 	ID       int    `json:"id"`

@@ -6,8 +6,8 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/helpers"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/models"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/models"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqid/helpers"
 	"gorm.io/gorm"
 )
 

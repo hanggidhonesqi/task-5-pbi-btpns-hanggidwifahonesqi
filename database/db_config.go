@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/helpers"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/models"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/helpers"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

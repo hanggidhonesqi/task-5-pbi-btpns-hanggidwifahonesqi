@@ -10,9 +10,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/database"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/models"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/router"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/database"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/models"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/router"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -25,8 +25,8 @@ func TestLogin(t *testing.T) {
 	api := "/api/v1"
 	r := router.RouteInit()
 
-	randUsername := fmt.Sprintf("Hafif Nur Muhammad %d", randNum)
-	randEmail := fmt.Sprintf("hafifcyber%d@gmail.com", randNum)
+	randUsername := fmt.Sprintf("hanggi dwifa honesqi %d", randNum)
+	randEmail := fmt.Sprintf("hanggicyber%d@gmail.com", randNum)
 	newUser := models.User{
 		Username: randUsername,
 		Email:    randEmail,

@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/controllers"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/database"
-	"github.com/hafifamudi/task-5-vix-btpns-hafifnurmuhammad/middlewares"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/controllers"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqi/database"
+	"github.com/hanggi/task-5-vix-btpns-hanggidwifahonesqid/middlewares"
 )
 
 func RouteInit() *gin.Engine {
